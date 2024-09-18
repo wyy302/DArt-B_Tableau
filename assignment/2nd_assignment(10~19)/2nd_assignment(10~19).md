@@ -54,17 +54,15 @@
 
 > **🧞‍♀️ 차원과 측정값의 고유한 특성에 대해 설명해주세요.**
 
+![2nd_assignment_01](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_01.png)
 ```
 차원
-
 - 정성적인 값을 가지고 있는 필드
 - 집계되거나 개선되지 않는 독립적인 필드
 - 기본적으로 불연속형 필드로 분류 -> 개별적으로 구분되는 값
 
 
-
 측정값
-
 - 정량적인 수치값을 가지고 있는 필드
 - 집계될 수 있는 값
 - 기본적으로 연속형 필드로 분류 -> 무한한 범위의 값
@@ -73,7 +71,7 @@
 *Quiz: 차원은 불연속형이고, 측정값은 연속형이다 (o, x)*
 
 ```
-그럴 수도 있고, 아닐 수도 있습니다.
+통상적으로 그렇지만, 항상 그런 것은 아니다.
 ```
 
 ## 11강: 시각화
@@ -95,14 +93,21 @@
 ## 12강: 막대그래프
 
 <!-- 막대그래프에 관해 배우게 된 점을 적어주세요 -->
-
+![2nd_assignment_02](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_02.png)
+![2nd_assignment_03](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_03.png)
+![2nd_assignment_04](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_04.png)
 ```
 여러 범주의 데이터를 비교할 때 유용하게 활용될 수 있음
 
 내림차순 버튼 or 정렬
+```
 
+![2nd_assignment_05](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_05.png)
+```
 가로 막대 그래프 : 행, 열 바꾸기
-
+```
+![2nd_assignment_06](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_06.png)
+```
 색상도 정렬이 가능함
 
 레이블 마크 : 합계, 물품 이름 등 표시 가능
@@ -112,12 +117,22 @@
 
 <!-- 누적막대그래프에 관해 배우게 된 점을 적어주세요 -->
 
+![2nd_assignment_07](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_07.png)
+![2nd_assignment_08](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_08.png)
 ```
 세부정보 마크 -> 선으로 구분
 색상 마크 -> 색으로 구분
+선반에 있는 필드를 추가로 사용하고 싶은 경우 컨트롤 키를 누른 채 드래그 앤 드랍
+```
 
+![2nd_assignment_09](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_09.png)
+```
 백분율 표시 : 퀵 테이블 계산 -> 구성 비율
+```
 
+![2nd_assignment_10](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_10.png)
+![2nd_assignment_11](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_11.png)
+```
 테이블(옆으로)는 카테고리 전체 합 비율을 100%로 봄
 
 테이블(아래로)는 하나의 카테고리의 비율을 100%로 봄
@@ -129,21 +144,39 @@
 
 <!-- 병렬막대그래프에 관해 배우게 된 점을 적어주세요 -->
 
+![2nd_assignment_12](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_12.png)
+![2nd_assignment_13](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_13.png)
+```
+"주문 일자 필드"를 불연속형 -> 연속형으로 변경
+불연속형인 경우 모든 년도의 월별로 합계를 나타냄
+연속형인 경우 모든 년도의 월별을 각각 나타냄
 ```
 
-```
+---
 
 ![그라데이션](https://github.com/yousrchive/BUSINESS-INTELLIGENCE-TABLEAU/blob/main/study/img/2nd%20study/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-09-12%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%201.54.19.png?raw=true)
 
 > *🧞‍♀️ 끊어진 색상으로 배치되어 표현되는 경우와 이어지는 그라데이션 색으로 표현되는 경우 두 가지가 있습니다. 위 사진의 경우 왜 색깔이 끊어지는 색상으로 표시되지 않고 그라데이션으로 표시되었나요? 데이터의 특성과 관련하여 이야기해 봅시다.*
 
 ```
-여기에 답을 적어주세요!
+연속형이기 때문에 그라데이션 형태로 나타납니다.
 ```
 
 ## 15강: 누적병렬막대그래프
 
 <!-- 누적병렬막대그래프에 관해 배우게 된 점을 적어주세요 -->
+
+![2nd_assignment_14](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_14.png)
+```
+병렬막대그래프에서 색상 마크에 다른 필드를 넣으면 색상으로 구분되는 누적병렬막대그래프가 생성됨
+"수익"과 "매출"을 한 번에 표시하기 위해 행 선반에 측정값을 사용함
+```
+
+![2nd_assignment_15](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_15.png)
+```
+이중 축을 활용하여 2개의 측정값을 하나로 표현할 수도 있음
+```
+---
 
 ![screen](https://github.com/yousrchive/BUSINESS-INTELLIGENCE-TABLEAU/blob/main/study/img/2nd%20study/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-09-12%20%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB%201.57.52.png?raw=true)
 
@@ -151,7 +184,7 @@
 > *🧞‍♀️ 위 사진에서는 Profit과 Sales를 측정값으로 두었습니다.  개별 칼럼(태블로에서는 #필드라 명칭합니다)을 열/행에 두는 대신, '측정값'을 사용하고 측정값 선반에 필드를 올려둡니다. 이런 방식을 사용하는 이유가 무엇일지, 어떻게 사용할 수 있을지 고민해보세요*
 
 ```
-여기에 답을 적어주세요!
+Profit과 Sales를 한 번에 표시하기 위해서 행 선반에 "측정값"을 사용했습니다.
 ```
 
 <!-- 정답은 없습니다 -->
@@ -159,22 +192,85 @@
 ## 16강: 라인그래프
 
 <!-- 라인그래프에 관해 배우게 된 점을 적어주세요 -->
+![2nd_assignment_16](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_16.png)
+```
+라인 차트는 연속형으로 그림
+```
 
+![2nd_assignment_17](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_17.png)
+```
+"매출"과 "수익" 이중 축 사용
+```
+
+![2nd_assignment_18](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_18.png)
+```
+축 동기화를 통해 "매출"과 "수익"의 축을 같게 만듦
+그러나 값의 차이가 많이 나면 그림과 같이 추이를 비교하기엔 부적합하기에 용도에 따라 사용해야 함
+```
 
 ## 17강: 맵작성
 
 <!-- 맵차트 관해 배우게 된 점을 적어주세요 -->
 
+![2nd_assignment_19](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_19.png)
+```
+지리적 역할로 변경 -> 위도와 경도가 생성됨
+```
+
+![2nd_assignment_20](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_20.png)
+```
+각 국가/지역별 매출을 색상으로 표현함
+```
+
+![2nd_assignment_21](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_21.png)
+```
+각 국가/지역별 매출과 수익을 이중축을 이용하여 표현함
+```
+
 ## 18강: 텍스트테이블
 
 <!-- 텍스트테이블에 관해 배우게 된 점을 적어주세요-->
 
+![2nd_assignment_22](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_22.png)
+```
+텍스트테이블 생성
+```
+
+![2nd_assignment_23](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_23.png)
+```
+분석 탭에서 "총계"를 이용해 각 범주별 총계를 표시함
+```
+
+![2nd_assignment_24](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_24.png)
+```
+퀵 테이블 계산으로 총계 -> 구성비율로 변경함 테이블(옆으로)
+```
+
+![2nd_assignment_25](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_25.png)
+```
+테이블(아래로) 로 변경함
+```
+
 ## 19강: 트리맵과 하이라이트테이블
 
+![2nd_assignment_26](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_26.png)
+```
+트리맵 생성
+```
+
+![2nd_assignment_27](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_27.png)
+```
+하이라이트 생성
+```
+
+![2nd_assignment_28](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_28.png)
+```
+별도의 범례 사용
+```
 > *🧞‍♀️하이라이트 테이블 등에서 두개 이상의 측정값을 사용하는 경우, 함께 색을 표현하게 되면 단위가 달라 정확한 값을 표현할 수 없습니다. 이때 클릭해야 하는 항목은?*
 
 ```
-여기에 답을 적어주세요!
+별도의 범례 사용~
 ```
 
 

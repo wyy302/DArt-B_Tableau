@@ -107,9 +107,9 @@
 데이터를 조인한 데이터 원본 창의 캡쳐를 첨부해주세요.
 몇 개의 주문이 반품되었다고 표시되나요?
 
-![1st_assignment_01](../1st_assignment(1~9)/1st_assignment_01.png)
+![1st_assignment_01](../1st_assignment(1~9)/1st_assignment_image/1st_assignment_01.png)
 
-![1st_assignment_02](../1st_assignment(1~9)/1st_assignment_02.png)
+![1st_assignment_02](../1st_assignment(1~9)/1st_assignment_image/1st_assignment_02.png)
 
 ```
 '주문' 테이블과 '반품 정리' 테이블에서 주문 Id가 일치하도록 조인을 시켰습니다. '주문' 테이블이 분석하고자 하는 테이블이기 때문에 Left Join을 진행했고 반품 개수를 확인해보니 3027개가 반품이 되었습니다.
@@ -181,6 +181,9 @@
 
 <!-- 텍스트 및 이미지로 문제 풀이 과정을 기술해주세요 -->
 
+```
+필드값의 이름이나 데이터 유형, 개수가 모두 같은 때는 유니온을 사용할 수 있습니다.
+```
 
 ## 문제 2.
 
