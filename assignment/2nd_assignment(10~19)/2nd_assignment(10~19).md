@@ -280,6 +280,21 @@ Profit과 Sales를 한 번에 표시하기 위해서 행 선반에 "측정값"�
 
 지민이를 도와주세요! (풀이를 찾아가는 과정을 기술해주세요)
 
+![2nd_assignment_29](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_29.png)
+```
+국가/지역 필드를 필터에 드래그 앤 드랍을 한 다음 "South Korea"인 데이터만을 선택하여 필터링 진행
+```
+
+![2nd_assignment_30](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_30.png)
+```
+하위 범주별로 매출의 비율을 트리맵으로 표현
+```
+
+![2nd_assignment_31](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_31.png)
+```
+매출을 레이블 마크에 드래그 앤 드랍
+-> 퀵 테이블 계산에서 구성 비율 선택
+```
 
 ## 문제2
 
@@ -292,6 +307,21 @@ https://github.com/yousrchive/BUSINESS-INTELLIGENCE-TABLEAU/blob/main/study/img/
 
 레퍼런스와 꼭 같지 않아도 자유롭게 표현하고, 그 과정을 기술해주세요.
 
+![2nd_assignment_32](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_32.png)
+```
+국가/지역 필드를 필터에 드래그 앤 드랍을 한 다음 "South Korea, China, Japan"인 데이터만을 선택하여 필터링 진행
+```
+
+![2nd_assignment_33](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_33.png)
+```
+열 선반에 필터링된 국가/지역 필드와 연속형 주문 날짜 필드를 드래그 앤 드랍
+행 선반에 매출과 수익 필드를 드래그 앤 드랍
+```
+
+![2nd_assignment_34](../2nd_assignment(10~19)/2nd_assignment_image/2nd_assignment_34.png)
+```
+매출과 수익 필드를 이중 축 사용
+```
 
 ### 참고 자료
 
