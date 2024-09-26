@@ -290,6 +290,18 @@
 
 <!-- DArt-B superstore가 아닌 개인 superstore 파일을 사용했다면 값이 다르게 표시될 수 있습니다.-->
 
+!["3rd_assignment_35"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_35.png)
+!["3rd_assignment_36"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_36.png)
+```
+여러 필터를 동시에 적용하면, 각각의 필터가 독립적으로 작동합니다.
+위의 문제에서는 배송 날짜를 2021년과 2022년으로 필터링한 후, 매출의 합이 상위 10개인 도시를 선택하면,
+상위 10개 도시는 2021년과 2022년의 매출 합을 기준으로 선정되는 것이 아니라, 모든 연도의 매출 합을 기준으로 선택됩니다.
+
+결과적으로, 현재 설정은 모든 연도의 매출 합을 기준으로 상위 10개 도시를 선택하고, 그 도시들의 2021년과 2022년 매출 합을 보여주고 있습니다.
+그러나 우리가 원하는 것은 2021년과 2022년 매출 합을 기준으로 상위 10개 도시를 선정하는 것입니다.
+이를 위해 배송 날짜 필터를 컨텍스트 필터로 설정하여, 2021년과 2022년 매출 합을 기준으로 상위 10개 도시를 비교할 수 있도록 우선적으로 적용되게 해야 합니다.
+```
+
 ## 문제 2.
 
 ```js
@@ -300,6 +312,9 @@
 
 ![group](https://github.com/yousrchive/BUSINESS-INTELLIGENCE-TABLEAU/blob/main/study/img/3rd%20study/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-09-18%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.33.47.png?raw=true)
 
+---
+!["3rd_assignment_37"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_37.png)
+
 ```js
 해당 그룹별로 어떤 국가/지역이 주문을 많이 차지하는지를 보고자 합니다. 매출액보다는 주문량을 보고 싶으므로, 주문Id의 카운트로 계산하겠습니다.
 
@@ -307,3 +322,8 @@
 ```
 
 ![image](https://github.com/yousrchive/BUSINESS-INTELLIGENCE-TABLEAU/blob/main/study/img/3rd%20study/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202024-09-18%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%204.37.55.png?raw=true)
+
+!["3rd_assignment_38"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_38.png)
+```
+얍~
+```
