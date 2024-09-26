@@ -125,26 +125,148 @@
 
 ## 23강: 분산형 차트
 <!-- 분산형 차트에 관해 배우게 된 점을 적어주세요 -->
+!["3rd_assignment_13"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_13.png)
+```
+- 열 선반에 '매출', 행 선반에 '수익'을 드래그 앤 드랍
+- 제조업체 -> 하위범주로 대체해서 세부 정보 마크에 드래그 앤 드랍
+- 범주를 색상 마크에 드래그 앤 드랍
+- 모양 마크로 점의 모양 변경 가능
+```
 
+!["3rd_assignment_14"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_14.png)
+```
+분석 패널에서 추세선 -> 선형으로 드래그 앤 드랍
+```
+
+!["3rd_assignment_15"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_15.png)
+```
+추세선의 설정에서 '범주' 마크 제거 -> 모든 데이터의 추세선이 나타남
+```
+
+!["3rd_assignment_16"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_16.png)
+```
+이중축을 활용하여 범주별 추세선, 모든 데이터의 추세선을 나타냄
+```
 
 ## 24강: 히스토그램
 <!-- 히스토그램에 관해 배우게 된 점을 적어주세요 -->
+!["3rd_assignment_17"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_17.png)
+```
+연속형인 측정값을 구간차원으로 변경하여 히스토그램을 만들 수 있음
+```
 
+!["3rd_assignment_18"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_18.png)
+```
+짜잔~
+```
+
+!["3rd_assignment_19"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_19.png)
+```
+행 선반에 있던 합계(매출)을 중복이 없게 개수를 세는 카운트(고유)로 퀵 테이블 계산을 진행함
+```
+
+!["3rd_assignment_20"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_20.png)
+```
+연속형인 "수익" 필드를 열 선반에 드래그 앤 드랍을 한 뒤 표현 방식 -> 히스토그램으로 변경
+- 뷰가 연속형 세로 막대로 표시하도록 표현됨
+- 열 선반에 배치하여 합계로 집계되었던 수익의 측정값이 연속형의 수익 구간 차원으로 변경됨
+- 수익 필드가 초록색으로 바뀐 것을 보고 연속형임을 알 수 있음
+- 수익 측정값이 행 선반으로 이동되고 집계가 합계에서 카운트로 변경됨
+```
+
+!["3rd_assignment_21"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_21.png)
+```
+색상 마크에 '범주' 필드 드래그 앤 드랍
+- 최솟값과 최댓값의 차이가 너무 크기 때문에 그래프가 극단적으로 표현되어 있음
+```
+
+!["3rd_assignment_22"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_22.png)
+```
+축 편집 -> 로그 변환 진행
+```
 
 ## 25강: 박스플롯
 <!-- 박스플롯에 관해 배우게 된 점을 적어주세요 -->
 
+!["3rd_assignment_23"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_23.png)
+
+!["3rd_assignment_24"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_24.png)
+```
+열 선반에는 '세그먼트' 필드와 '지역' 필드, 행 선반에는 '매출' 필드를 드래그 앤 드랍을 하고 표현 방식 -> 박스 플롯
+```
+
+!["3rd_assignment_25"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_25.png)
+```
+'지역' 필드를 열 선반에 놓고, '고객 이름' 필드를 세부 정보 마크에, '세그먼트' 필드를 색상 마크에 드래그 앤 드랍
+```
+
+!["3rd_assignment_26"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_26.png)
+```
+축 편집에서 로그 변환 후 전체 보기
+```
+
 ## 26강: 영역차트
 <!-- 영역차트에 관해 배우게 된 점을 적어주세요 -->
+!["3rd_assignment_27"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_27.png)
+```
+열 선반에 '분기' 연속형 필드, 행 선반에 '매출' 필드, 색상 마크에 '세그먼트' 필드를 두고 표현 방식 -> 영역 차트(연속형)
+```
 
 ## 27강: 간트차트
 <!-- 간트차트에 관해 배우게 된 점을 적어주세요 -->
+!["3rd_assignment_28"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_28.png)
+```
+'배송시간' 필드를 생성
+```
+
+!["3rd_assignment_29"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_29.png)
+```
+'배송기간' 필드를 크기 마크에 드래그 앤 드랍을 한 뒤, 평균으로 변경
+간트 차트로 변경
+```
+
+!["3rd_assignment_30"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_30.png)
+```
+행 선반에 '하위 범주' 필드를 드래그 앤 드랍
+필터에 '고객 이름' 필드를 드래그 앤 드랍
+```
+
+!["3rd_assignment_31"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_31.png)
+```
+색상 마크에 '배송 형태' 필드를 드래그 앤 드랍
+```
 
 ## 28강: 필터
 <!-- 필터에 관해 배우게 된 점을 적어주세요 -->
+```
+컨텍스트 필터 : 필터 중 상위 필터
+→ 원래 필터는 다른 필터랑 관계없이 모든 행에 엑세스하도록 작동함
+→ 따라서 컨텍스트 필터를 사용하면 다른 필터가 컨테스트 필터에 종속되어 작동함
+```
+
+!["3rd_assignment_32"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_32.png)
+```
+제품이름 매출 합 상위 10개 필터 + 범주 ‘기술' → 독립적으로 적용됨
+```
+
+!["3rd_assignment_33"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_33.png)
+```
+범주:기술 우클릭 → 컨텍스트에 추가
+```
+
+!["3rd_assignment_34"](../3rd_assignment(20~29)/3rd_assignment_image/3rd_assignment_34.png)
+```
+- 범주 필터가 우선적으로 적용되고 매출 상위 필터가 종속적으로 적용
+- 컨텍스트 필터는 회색으로 바뀌고 필터 내에서 순서 변경이 불가능
+```
 
 ## 29강: 그룹
 <!-- 그룹에 관해 배우게 된 점을 적어주세요 -->
+```
+- 그래프 드래그 → 그룹
+- 그룹 만들기
+- 필터를 통해 기타 제거 가능
+```
 
 ## 문제 1.
 
