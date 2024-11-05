@@ -25,7 +25,26 @@
 ## 48. 워크시트 서식(2)
 
 <!-- 워크시트에 관해 본 강의에서 알게 된 점을 적어주세요 -->
+```
+서식 탭 -> 테두리 선택
+테두리 유형, 두께, 색상 선택 가능
+```
+![6th_assignment_01](../6th_assignment(48~57)/6th_assignment_image/6th_assignment_01.png)
+![6th_assignment_02](../6th_assignment(48~57)/6th_assignment_image/6th_assignment_02.png)
+![6th_assignment_03](../6th_assignment(48~57)/6th_assignment_image/6th_assignment_03.png)
+![6th_assignment_04](../6th_assignment(48~57)/6th_assignment_image/6th_assignment_04.png)
 
+```
+- 행 구분선의 수준이 두 번째 눈금에 있어 '지역' 필드 기준으로 구분됨
+- 행 구분선의 수준을 왼쪽으로 움직이면 테이블 기준으로 구분되어 선이 표시
+- 행 구분선의 수준을 오른쪽으로 움직이면 '국가' 필드 기준으로 구분됨
+- 행 선반에 '시/도' 필드를 추가하면 해당 수준에 눈금이 추가됨
+```
+
+```
+서식 탭 -> 라인 선택
+뷰에서 표시된 데이터의 축에 대한 라인의 모양을 설정
+```
 
 
 ## 49강. 대시보드패널
