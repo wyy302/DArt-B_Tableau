@@ -275,3 +275,22 @@
 **단, 워크시트 3개 이상의 그래프를 표시해야 하며 각 시트 간 상호작용성 필터 or 하이라이트 동작은 꼭 추가되어야 합니다**
 
 어떤 부분에 가중을 두었는지, 어떤 사용자 편의성을 고려하였는지에 대한 설명이 필요합니다.
+
+
+![6th_assignment_29](../6th_assignment(48~57)/6th_assignment_image/6th_assignment_29.png)
+![6th_assignment_30](../6th_assignment(48~57)/6th_assignment_image/6th_assignment_30.png)
+![6th_assignment_31](../6th_assignment(48~57)/6th_assignment_image/6th_assignment_31.png)
+
+```
+매인 대시보드 : 매출, 수량, 수익, 개당 수익을 한 눈에 볼 수 있게 하고, 국가별 매출과 주문 날짜별 매출을 볼 수 있게 만듦
+서브 대시브도 1 : 국가별 세그먼트 비율과 주문 수를 볼 수 있게 만듦
+서브 대시보드 2 : 수익 대비 개당 수익 비율과 할인율의 관계를 볼 수 있게 만듦
+```
+
+![6th_assignment_32](../6th_assignment(48~57)/6th_assignment_image/6th_assignment_32.png)
+
+```
+- 매인 대시보드에서 날짜를 클릭하면 해당 날짜의 매출, 수량, 수익, 개당 수익을 보여줌
+- 매인 대시보드에서 국가를 클릭 시, 해당 국가의 세그먼트로 필터링되며 서브 대시보드 1로 이동함
+- 매인 대시보드에서 수익과 할인의 관계를 클릭하면 서브 대시보드 2로 이동함
+```
