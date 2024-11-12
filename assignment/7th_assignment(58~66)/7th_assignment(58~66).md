@@ -24,9 +24,70 @@
 
 <!-- 집합값 변경 강의에서 알게 된 점을 적어주세요 -->
 
+![7th_assignment_1](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_01.png)
+
+```
+세그먼트 집합과 하위 범주 집합 생성
+(강의에서는 제조업체를 사용했으나 제조업체 데이터가 없으므로 세그먼트로 대체하여 진행)
+```
+
+![7th_assignment_2](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_02.png)
+![7th_assignment_3](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_03.png)
+
+```
+- 하위 범주 집합과 세그먼트 집합을 이용하여 계산된 필드 생성
+- 각 집합을 선택하고 있지 않으면 "+"가 뜨도록 하는 조건문
+```
+
+![7th_assignment_4](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_04.png)
+
+```
+위에서 생성한 계산된 필드를 활용하여 제품 막대 차트 생성
+```
+
+![7th_assignment_5](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_05.png)
+![7th_assignment_6](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_06.png)
+
+```
+하위 범주 집합과 세그먼트 집합 동작을 추가
+```
+
+![7th_assignment_7](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_07.png)
+![7th_assignment_8](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_08.png)
+
+```
+완성된 모~습
+```
+
+![7th_assignment_9](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_09.png)
+
+```
+시트로 이동 동작을 추가
+```
+
+![7th_assignment_10](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_10.png)
+
+```
+메뉴에 추가된 모~습
+```
+
+![7th_assignment_11](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_11.png)
+
+```
+수익성 대시보드로 돌아가는 탐색 개체 추가
+```
+
+![7th_assignment_12](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_12.png)
+
+```
+최종 완성된 모~습
+```
+
 ## 59강. 스토리패널
 
 <!-- 스토리패널 강의에서 알게 된 점을 적어주세요 -->
+
+
 
 ## 60. 스토리
 
