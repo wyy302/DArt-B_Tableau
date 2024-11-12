@@ -408,7 +408,7 @@
 ![7th_assignment_64](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_64.png)
 
 ```
-- "Sales" 필드와 "Category" 필드를 더블클릭 후 트리맵
+- "Sales" 필드와 "Category" 필드를 더블클릭 후 트리맵 생성
 ```
 
 ![7th_assignment_65](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_65.png)
@@ -476,22 +476,169 @@
 
 <!-- 파일 차트 드릴다운에 대해 알게 된 점을 적어주세요 -->
 
+![7th_assignment_75](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_75.png)
 
+```
+- "Sales" 필드와 "Category" 필드를 더블클릭 후 파이 차트 생성
+```
+
+![7th_assignment_76](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_76.png)
+
+```
+- "카테고리 집합" 생성
+```
+
+![7th_assignment_77](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_77.png)
+
+```
+- "드릴다운 1" 계산된 필드 생성
+```
+
+![7th_assignment_78](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_78.png)
+
+```
+- "드릴다운 1" 계산된 필드를 이용한 드릴다운 동작 생성
+```
+
+![7th_assignment_79](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_79.png)
+
+```
+- "드릴다운" 필드를 세부정보 마크에 드래그 앤 드랍
+```
+
+![7th_assignment_80](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_80.png)
+
+```
+완성된 모~습
+```
+
+![7th_assignment_81](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_81.png)
+
+```
+- Category를 "Sales" 필드 기준 내림차순으로 정렬
+```
+
+![7th_assignment_82](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_82.png)
+
+```
+- 색상 마크에서 테두리 색을 흰색으로 지정
+```
+
+![7th_assignment_83](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_83.png)
+
+```
+- 행 선반에 0 입력 후 복제
+```
+
+![7th_assignment_84](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_84.png)
+
+```
+- 첫 번째 축을 선택하여 마크 선반의 "드릴다운 1" 필드를 제거한 후 크기 조절
+- 두 번째 축도 크기 조절
+```
+
+![7th_assignment_85](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_85.png)
+
+```
+- 이중 축 이후 안 쪽 파이 차트 색상으로 바깥 쪽 파이 차트 색상을 변경
+```
+
+![7th_assignment_86](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_86.png)
+
+```
+- 안쪽 레이블은 드릴다운 했을 때만 표시하기 위한 "드릴다운 1 레이블" 계산된 필드 생성
+```
+
+![7th_assignment_87](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_87.png)
+
+```
+- "서식" 에서 행 구분선, 열 구분선, 격자선, 영 기준선을 제거
+- 행의 "머리글 표시" 제거
+```
+
+![7th_assignment_88](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_88.png)
+
+```
+완성된 모~습
+```
 
 ## 66. 지도 드릴다운
 
 <!-- 지도 드릴다운에 대해 알게 된 점을 적어주세요 -->
 
+![7th_assignment_89](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_89.png)
 
+```
+- "국가/지역" 필드 더블 클릭 후 지도 차트 생성
+```
 
----
+![7th_assignment_90](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_90.png)
 
-## 문제
+```
+- "국가/지역 집합" 생성
+```
 
-오늘은 별도의 문제가 없습니다.
+![7th_assignment_91](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_91.png)
+![7th_assignment_92](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_92.png)
 
-저번 주와 마찬가지로 여러 대시보드를 참고하시어, 학술제 주제 관련 데이터(없을 경우, 본인 관심 데이터)를 사용해 나만의 대시보드를 제작해주세요.
+```
+- "드릴다운 1" 계산된 필드 생성
+- 이후 지리적 역할 -> 만들기 원본 -> 시/도 클릭
+```
 
-**단, 워크시트 3개 이상의 그래프를 표시해야 하며 각 시트 간 상호작용성 필터 or 하이라이트 동작은 꼭 추가되어야 합니다**
+![7th_assignment_93](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_93.png)
 
-어떤 부분에 가중을 두었는지, 어떤 사용자 편의성을 고려하였는지에 대한 설명이 필요합니다.
+```
+- "드릴다운 1" 계산된 필드를 이용한 드릴다운 동작 생성
+```
+
+![7th_assignment_94](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_94.png)
+
+```
+- "드릴다운 1" 필드 색상 마크에 드래그 앤 드랍
+- 우측 아래 "1개의 알 수 없는 항목"을 표시기 숨기기 선택
+```
+
+![7th_assignment_95](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_95.png)
+
+```
+완성된 모~습
+```
+
+![7th_assignment_96](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_96.png)
+
+```
+- 드릴다운과 함께 선택한 "국가/지역"만 필터링 되는 작업을 하기 위해 "매개변수 국가/지역" 매개변수 생성
+```
+
+![7th_assignment_97](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_97.png)
+
+```
+- "국가/지역" 필드와 "매개변수 국가/지역" 매개변수가 일치할 경우와 "ALL"일 경우에 "매개변수 국가/지역"이, 그렇지 않을 경우 FALSE가 나오는 "선택된 국가/지역" 계산된 필드 생성
+```
+
+![7th_assignment_98](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_98.png)
+
+```
+- "매개변수 국가/지역" 매개변수를 표시 (우측)
+- "선택된 국가/지역" 계산된 필드를 필터에 드래그 앤 드랍 후 "참"을 선택한 후 확인
+```
+
+![7th_assignment_99](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_99.png)
+
+```
+- "선택된 국가/지역" 계산된 필드를 사용하기 위한 동작 생성
+```
+
+![7th_assignment_100](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_100.png)
+
+```
+- 도구 설명 마크에서 "드롭다운 1"만 남겨놓고 모두 지움
+```
+
+![7th_assignment_101](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_101.png)
+![7th_assignment_102](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_102.png)
+
+```
+완성된 모~습
+```
