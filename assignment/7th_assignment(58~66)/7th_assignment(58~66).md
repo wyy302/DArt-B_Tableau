@@ -344,11 +344,133 @@
 완성된 모~습
 ```
 
+![7th_assignment_52](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_52.png)
+
+```
+- 드릴다운의 정렬을 "매출" 필드 내림차순으로 변경
+```
+
+![7th_assignment_53](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_53.png)
+
+```
+완성된 모~습
+```
+
+![7th_assignment_54](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_54.png)
+![7th_assignment_55](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_55.png)
+![7th_assignment_56](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_56.png)
+![7th_assignment_57](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_57.png)
+
+```
+- 드릴다운 1처럼 드릴다운 2도 같은 방법으로 제작
+```
+
+![7th_assignment_58](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_58.png)
+
+```
+완성된 모~습
+```
+
+![7th_assignment_59](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_59.png)
+
+```
+- "드릴다운 1 레이블" 계산된 필드 제작
+```
+
+![7th_assignment_60](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_60.png)
+
+```
+- 행 선반에 "드릴다운 1 레이블" 필드 드래그 앤 드랍
+```
+
+![7th_assignment_61](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_61.png)
+
+```
+- "드릴다운" 필드 머리글 표시 제거
+```
+
+![7th_assignment_62](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_62.png)
+
+```
+- 행에 대한 필드 레이블 숨기기
+```
+
+![7th_assignment_63](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_63.png)
+
+```
+완성된 모~습
+```
+
 ## 64. 트리맵 드릴다운
 
 <!-- 트리맵 드릴다운에 대해 알게 된 점을 적어주세요 -->
 
+![7th_assignment_64](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_64.png)
 
+```
+- "Sales" 필드와 "Category" 필드를 더블클릭 후 트리맵
+```
+
+![7th_assignment_65](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_65.png)
+
+```
+- "카테고리 집합" 생성
+```
+
+![7th_assignment_66](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_66.png)
+
+```
+- "드릴다운 1" 계산된 필드 생성
+```
+
+![7th_assignment_67](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_67.png)
+
+```
+- "드릴다운 1" 계산된 필드를 이용한 드릴다운 동작 생성
+```
+
+![7th_assignment_68](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_68.png)
+
+```
+완성된 모~습
+```
+
+![7th_assignment_69](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_69.png)
+
+```
+- Sub-Category에서 Maufacturer로 드릴다운 할 수 있도록 "드릴다운 1 집합" 생성
+```
+
+![7th_assignment_70](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_70.png)
+
+```
+- "드릴다운 2" 계산된 필드 생성
+```
+
+![7th_assignment_71](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_71.png)
+
+```
+- "드릴다운 2" 계산된 필드를 이용한 드릴다운 동작 생성
+```
+
+![7th_assignment_72](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_72.png)
+
+```
+- 완성된 모~습
+```
+
+![7th_assignment_73](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_73.png)
+
+```
+- 트리맵에 레이블이 중복되는 것을 막기 위해 "드릴다운 1 레이블" 계산된 필드 생성
+```
+
+![7th_assignment_74](../7th_assignment(58~66)/7th_assignment_image/7th_assignment_74.png)
+
+```
+- 마크를 다음과 같이 설정
+완성된 모~습
+```
 
 ## 65. 파일 차트 드릴다운
 
